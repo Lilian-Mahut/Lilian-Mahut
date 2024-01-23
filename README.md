@@ -1,7 +1,7 @@
 <div align="center">
 
   <div style="width: 100%;">
-    <img src="hello.svg" style="width: 100%;" alt="hello">
+    <img src="helloWorld.svg" style="width: 100%;" alt="hello">
   </div>
   
   # Specialized in <img src="/icons/technologies/angular.png" alt="Angular" title="Angular" height="24" />ngular
