@@ -10,11 +10,11 @@
 
 🌐 Link to my personnal [Portfolio](https://lilianmahut.dev/)
 
-📫 Contact me at [contact@lilianmahut.dev](mailto:contact@lilianmahut.dev)
+📫 You can contact me at [contact@lilianmahut.dev](mailto:contact@lilianmahut.dev)
 
 🌱 Take a look to my Github profile status to see what I am working / training on.
 
-👨‍💻 All of my projects are available at [My Github repositories](https://github.com/Lilian-Mahut?tab=repositories)
+👨‍💻 My projects are available at [My Github repositories](https://github.com/Lilian-Mahut?tab=repositories)
 
 🎲 Personnal fact, I'm a <img src="/icons/d&d.png" alt="Dungeons & Dragons" title="Dungeons & Dragons" height="18" /> game master since I was 16.
 
