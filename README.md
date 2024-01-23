@@ -12,7 +12,7 @@
 
 📫 You can contact me at [contact@lilianmahut.dev](mailto:contact@lilianmahut.dev)
 
-🌱 Take a look to my [LinkedIn profile](https://www.linkedin.com/in/lilian-mahut/) & [My Github repositories](https://github.com/Lilian-Mahut?tab=repositories)
+🌱 Take a look to my [LinkedIn profile](https://www.linkedin.com/in/lilian-mahut/) & [Github repositories](https://github.com/Lilian-Mahut?tab=repositories)
 
 🎲 Personnal fact, I'm a <img src="/icons/d&d.png" alt="Dungeons & Dragons" title="Dungeons & Dragons" height="18" /> game master since I was 16.
 
