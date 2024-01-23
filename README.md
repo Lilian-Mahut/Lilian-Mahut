@@ -43,13 +43,12 @@
 </tr>
 <tr>
 <td>Tools I Use</td>
-<td><a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code" height="30" title="Visual Studio Code" /></a><a href="https://github.com/"><img src="https://static-00.iconduck.com/assets.00/github-icon-2048x1988-jzvzcf2t.png" alt="Github" height="30" title="GitHub" /></a><a href="https://git-scm.com/"><img src='https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="30" title="Git" ></a><a href="https://github.com/"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" height="30"/></a><a href="https://github.com/"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mongodb/mongodb-original.svg" alt="MongoDB" height="30" title="MongoDB" /></a><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/webpack/webpack-original.svg" alt="WebPack" height="30" title="WebPack" /></a></td>
+<td><a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code" height="30" title="Visual Studio Code" /></a><a href="https://github.com/"><img src="https://static-00.iconduck.com/assets.00/github-icon-2048x1988-jzvzcf2t.png" alt="Github" height="30" title="GitHub" /></a> <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="30" title="Git" ></a> <a href="https://github.com/"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" height="30"/></a> <a href="https://github.com/"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mongodb/mongodb-original.svg" alt="MongoDB" height="30" title="MongoDB" /></a> <a href=""><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/webpack/webpack-original.svg" alt="WebPack" height="30" title="WebPack" /></a></td>
 </tr>
 <tr>
 <td>Designing Tools I Use</td>
 <td>
-<a href="https://www.figma.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" title="Figma" height="30" /></a>
-<a href="https://www.adobe.com/fr/products/photoshop.html"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_Mobile_icon.svg/1049px-Adobe_Photoshop_Mobile_icon.svg.png" alt=" Photoshop" title="Photoshop" height="30" /></a>
+<a href="https://www.figma.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" title="Figma" height="30" /></a> <a href="https://www.adobe.com/fr/products/photoshop.html"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_Mobile_icon.svg/1049px-Adobe_Photoshop_Mobile_icon.svg.png" alt=" Photoshop" title="Photoshop" height="30" /></a>
 </td>
 </tr>
 </table>
