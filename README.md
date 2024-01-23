@@ -37,14 +37,14 @@
     <td>Libraries & Frameworks</td>
     <td>
       <img src="/icons/technologies/angular.png" alt="Angular" title="Angular" height="30" />
-      <img src="/icons/technologies/sass.png" alt="Sass" title="Sass" height="30" />
       <img src="/icons/technologies/materialize.png" alt="Materialize" title="Materialize" height="30" />
       <img src="/icons/technologies/materialui.png" alt="Material UI" title="Material UI" height="30" />
+      <br/>
+      <img src="/icons/technologies/sass.png" alt="Sass" title="Sass" height="30" />
       <img src="/icons/technologies/bootstrap.png" alt="Bootstrap" title="Bootstrap" height="30" />
       <img src="/icons/technologies/tailwind.png" alt="Tailwind" title="Tailwind" height="30" />
       <br/>
       <img src="/icons/technologies/node.png" alt="Node" title="Node" height="30" />
-      <img src="/icons/technologies/express.png" alt="Express.js" title="Express.js" height="30" />
       <img src="/icons/technologies/express.png" alt="Express.js" title="Express.js" height="30" />
       <img src="/icons/technologies/socket.io.png" alt="Socket.io" title="Socket.io" height="30" />
       <img src="/icons/technologies/jQuery.png" alt="jQuery" title="jQuery" height="30" />
@@ -65,13 +65,11 @@
   <tr>
     <td>Tools</td>
     <td>
-      <img src="/icons/tools/azure.png" alt="Azure" title="Azure" height="30" />
       <img src="/icons/tools/vsc.png" alt="Visual Studio Code"title="Visual Studio Code" height="30" />
+      <img src="/icons/tools/azure.png" alt="Azure" title="Azure" height="30" />
       <img src="https://static-00.iconduck.com/assets.00/github-icon-2048x1988-jzvzcf2t.png" alt="Github" height="30" title="GitHub" />
       <img src="/icons/tools/gitlab.png" alt="Gitlab" title="Gitlab" height="30" />
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="30" title="Git" >
-      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" height="30"/>
-      <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/webpack/webpack-original.svg" alt="WebPack" height="30" title="WebPack" />
     </td>
   </tr>
   <tr>
