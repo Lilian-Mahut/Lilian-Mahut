@@ -57,7 +57,7 @@
     <td>Databases</td>
     <td>
       <img src="/icons/databases/mysql.png" alt="MySQL" title="MySQL" height="30" /> 
-      <img src="/icons/databases/mariadb.ng" alt="MariaDB" title="MariaDB" height="30" /> 
+      <img src="/icons/databases/mariadb.png" alt="MariaDB" title="MariaDB" height="30" /> 
       <img src="/icons/databases/mongodb.png" alt="MongoDB" title="MongoDB" height="30" /> 
       <img src="/icons/databases/postgresql.png" alt="PostgreSQL" title="PostgreSQL" height="30" />
     </td>
