@@ -73,6 +73,14 @@
     </td>
   </tr>
   <tr>
+    <td>CI / CD</td>
+    <td>
+      <img src="/icons/tools/jenkins.png" alt="Visual Studio Code"title="Visual Studio Code" height="30" />
+      <img src="/icons/tools/ngynx.png" alt="Git" title="Git" height="30" >
+      <img src="/icons/tools/vercel.png" alt="Github" title="GitHub" height="30" />
+    </td>
+  </tr>
+  <tr>
     <td>Design</td>
     <td>
       <img src="/icons/tools/figma.png" alt="figma" title="Figma" height="30" />
