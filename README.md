@@ -21,11 +21,11 @@
 <br />
 <table>
   <tr>
-    <th>Description</th>
-    <th>Tools</th>
+    <th>What...</th>
+    <th>...I use</th>
   </tr>
   <tr>
-    <td>Languages I Use</td>
+    <td>Languages</td>
     <td>
       <img src='https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg' alt='html5' height='30'> 
       <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg' alt='css3' height='30'> 
@@ -34,7 +34,7 @@
       <img src="https://symbols.getvecta.com/stencil_28/61_sql-database-generic.90b41636a8.svg" height='30'/>
   </tr>
   <tr>
-    <td>Libraries & Frameworks I Use</td>
+    <td>Libraries & Frameworks</td>
     <td>
       <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt='Angular js' height='30'>
       <img src='https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg' alt='react js' height='30'>
@@ -46,7 +46,7 @@
     </td>
   </tr>
   <tr>
-    <td>Tools I Use</td>
+    <td>Tools</td>
     <td>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code" height="30" title="Visual Studio Code" />
       <img src="https://static-00.iconduck.com/assets.00/github-icon-2048x1988-jzvzcf2t.png" alt="Github" height="30" title="GitHub" />
@@ -57,7 +57,7 @@
     </td>
   </tr>
   <tr>
-    <td>Designing Tools I Use</td>
+    <td>Designing Tools</td>
     <td>
       <img src="/icons/tools/figma.png" alt="figma" title="Figma" height="30" />
       <img src="/icons/tools/photoshop.png" alt="Photoshop" title="Photoshop" height="30" />
