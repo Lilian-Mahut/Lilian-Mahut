@@ -1,7 +1,5 @@
 <div align="center">
 
-![Banner](/icons/coffee.png?raw=true)
-
 <div style="width: 100%;">
   <img src="hello.svg" style="width: 100%;" alt="hello">
 </div>
