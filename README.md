@@ -97,7 +97,7 @@
 <div>
   <img src="/icons/certifs/opquast.png" alt="Opquast" title="Opquast" height="120" />
   <br />
-  Opquast certified mastery of quality in web projects<br />
+  [Opquast certified](https://directory.opquast.com/fr/certificat/LB9GRF/), quality control in web projects<br />
 </div>
 
 <!--
