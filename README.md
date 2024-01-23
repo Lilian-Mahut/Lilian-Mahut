@@ -91,7 +91,7 @@
   <img src="/icons/certifs/agile.png" alt="Agile" title="Agile" height="120" />
   <br />
   
-  Certified methods management methods and project initiation
+  Certified in agile management methods and project initiation
   <br />
   [Link](https://www.linkedin.com/in/lilian-mahut/details/certifications/1635551459921/single-media-viewer?type=DOCUMENT&profileId=ACoAABc23qABODpNN3G2BawfhdqUIss6ChCW2Xc&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BUwVFOTljR2%2BtwU%2BMeF69Og%3D%3D)
 
