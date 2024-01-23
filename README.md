@@ -16,7 +16,7 @@
 
 👨‍💻 All of my projects are available at [My Github repositories](https://github.com/Lilian-Mahut?tab=repositories)
 
-🎲 Fun fact, I am game master in <img src="/icons/d&d.png" alt="Dungeons & Dragons" title="Dungeons & Dragons" height="18" /> since I was 16.
+🎲 Fun fact, I'm a <img src="/icons/d&d.png" alt="Dungeons & Dragons" title="Dungeons & Dragons" height="18" /> game master since I was 16.
 
 <br />
 <table>
