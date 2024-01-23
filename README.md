@@ -76,7 +76,7 @@
     <td>CI / CD</td>
     <td>
       <img src="/icons/tools/jenkins.png" alt="Jenkins"title="Jenkins" height="30" />
-      <img src="/icons/tools/ngynx.png" alt="Ngynx" title="Ngynx" height="30" >
+      <img src="/icons/tools/nginx.png" alt="Nginx" title="Nginx" height="30" >
       <img src="/icons/tools/vercel.png" alt="Vercel" title="Vercel" height="30" />
     </td>
   </tr>
