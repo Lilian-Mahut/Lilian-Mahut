@@ -90,11 +90,11 @@
 </table>
 <br />
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=joliwood&show_icons=true&locale=en&count_private=true&theme=apprentice&bg_color=ffffff00&hide_border=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=Lilian-Mahut&show_icons=true&locale=en&count_private=true&theme=apprentice&bg_color=ffffff00&hide_border=true)
 
-![Languages stats](https://github-readme-stats.vercel.app/api/top-langs?username=joliwood&show_icons=true&locale=en&layout=compact&count_private=true&theme=apprentice&bg_color=ffffff00&hide_border=true)
+![Languages stats](https://github-readme-stats.vercel.app/api/top-langs?username=Lilian-Mahut&show_icons=true&locale=en&layout=compact&count_private=true&theme=apprentice&bg_color=ffffff00&hide_border=true)
 
-![Strikes stats](https://github-readme-streak-stats.herokuapp.com/?user=joliwood&&count_private=true&theme=apprentice&bg_color=ffffff00&hide_border=true)
+![Strikes stats](https://github-readme-streak-stats.herokuapp.com/?user=Lilian-Mahut&&count_private=true&theme=apprentice&bg_color=ffffff00&hide_border=true)
 
 </div>
 
