@@ -16,22 +16,22 @@
 
 👨‍💻 All of my projects are available at [My Github repositories](https://github.com/Joliwood?tab=repositories)
 
-:musical_score: Fun fact I am also an orchestral composer
+:musical_score: Fun fact, I am master of the <img src="/icons/d&d.png" alt="Dungeons & Dragons" title="Dungeons & Dragons" height="24" /> Dungeons & Dragons game since the age of 16.
 
 <br />
 <table>
   <tr>
-    <th>What...</th>
-    <th>...I use</th>
+    <th>What ...</th>
+    <th>... I use</th>
   </tr>
   <tr>
     <td>Languages</td>
     <td>
-      <img src='https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg' alt='html5' height='30'> 
-      <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg' alt='css3' height='30'> 
-      <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg' alt='javascript' height='30'> 
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height='30'/>
-      <img src="https://symbols.getvecta.com/stencil_28/61_sql-database-generic.90b41636a8.svg" height='30'/>
+      <img src="/icons/languages/html5.png" alt="Html5" title="Html5" height="30" /> 
+      <img src="/icons/languages/css3.png" alt="Css3" title="Css3" height="30" /> 
+      <img src="/icons/languages/javascript.png" alt="Javascript" title="Javascript" height="30" /> 
+      <img src="/icons/languages/typescript.png" alt="Typescript" title="Typescript" height="30" />
+      <img src="/icons/languages/sql.png" alt="SQL" title="SQL" height="30" />
   </tr>
   <tr>
     <td>Libraries & Frameworks</td>
