@@ -59,8 +59,7 @@
       </style>
       <div class="container">
         <h1>Hi <span class="hi">👋</span> I'm Lilian Mahut,<br/>
-        a fullstack Javascript developper.<br/>
-        Specializing in <img src="/icons/technologies/angular.png" alt="Angular" title="Angular" height="20" />ngular</h1>
+        a fullstack Javascript developper.</h1>
       </div>
     </div>
   </foreignObject>
