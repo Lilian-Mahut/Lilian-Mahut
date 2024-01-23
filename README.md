@@ -14,8 +14,6 @@
 
 🌱 Take a look to my [LinkedIn profile](https://www.linkedin.com/in/lilian-mahut/) & [Github repositories](https://github.com/Lilian-Mahut?tab=repositories)
 
-🎲 Personnal fact, I'm a <img src="/icons/d&d.png" alt="Dungeons & Dragons" title="Dungeons & Dragons" height="18" /> game master since I was 16.
-
 <br />
 <table>
   <tr>
@@ -89,6 +87,18 @@
   </tr>
 </table>
 <br />
+
+<div>
+  <img src="/icons/certifs/agile.png" alt="Agile" title="Agile" height="120" />
+  <br />
+  Certified agile management methods and project initiation
+</div>
+<br /><br />
+<div>
+  <img src="/icons/certifs/opquast.png" alt="Opquast" title="Opquast" height="120" />
+  <br />
+  Opquast certified mastery of quality in web projects<br />
+</div>
 
 <!--
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Lilian-Mahut&show_icons=true&locale=en&count_private=true&theme=apprentice&bg_color=ffffff00&hide_border=true)
