@@ -17,8 +17,16 @@
   <br />
   <table>
     <tr>
-      <th>What ...</th>
-      <th>... I use</th>
+      <th>
+        <br/>
+        What ...
+        <br/><br/>
+      </th>
+      <th>
+        <br/>
+        ... I use
+        <br/><br/>
+      </th>
     </tr>
     <tr>
       <td>Languages</td>
