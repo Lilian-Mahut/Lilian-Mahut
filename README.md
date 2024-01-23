@@ -16,7 +16,7 @@
 
 👨‍💻 All of my projects are available at [My Github repositories](https://github.com/Lilian-Mahut?tab=repositories)
 
-🎲 Fun fact, I am master of the <img src="/icons/d&d.png" alt="Dungeons & Dragons" title="Dungeons & Dragons" height="18" /> game since I was 16.
+🎲 Fun fact, I am game master in <img src="/icons/d&d.png" alt="Dungeons & Dragons" title="Dungeons & Dragons" height="18" /> since I was 16.
 
 <br />
 <table>
@@ -62,14 +62,14 @@
       <img src="/icons/tools/azure.png" alt="Azure" title="Azure" height="30" />
       <img src="/icons/tools/vsc.png" alt="Visual Studio Code"title="Visual Studio Code" height="30" />
       <img src="https://static-00.iconduck.com/assets.00/github-icon-2048x1988-jzvzcf2t.png" alt="Github" height="30" title="GitHub" />
-      <img src="/icons/technologies/gitlab.png" alt="Gitlab" title="Gitlab" height="30" />
+      <img src="/icons/tools/gitlab.png" alt="Gitlab" title="Gitlab" height="30" />
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="30" title="Git" >
       <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" height="30"/>
       <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/webpack/webpack-original.svg" alt="WebPack" height="30" title="WebPack" />
     </td>
   </tr>
   <tr>
-    <td>Designing Tools</td>
+    <td>Design</td>
     <td>
       <img src="/icons/tools/figma.png" alt="figma" title="Figma" height="30" />
       <img src="/icons/tools/photoshop.png" alt="Photoshop" title="Photoshop" height="30" />
