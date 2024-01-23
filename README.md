@@ -90,13 +90,15 @@
   
   <img src="/icons/certifs/agile.png" alt="Agile" title="Agile" height="120" />
   <br />
-  Certified agile management methods and project initiation
+  Certified methods management methods and project initiation
   <br />
   <br />
   <img src="/icons/certifs/opquast.png" alt="Opquast" title="Opquast" height="120" />
   <br />
-  [Opquast certified](https://directory.opquast.com/fr/certificat/LB9GRF/), quality control in web projects<br />
   
+  Opquast certified, quality control in web projects
+  <br />
+  [Link](https://directory.opquast.com/fr/certificat/LB9GRF/)
   <!--
   ![Github stats](https://github-readme-stats.vercel.app/api?username=Lilian-Mahut&show_icons=true&locale=en&count_private=true&theme=apprentice&bg_color=ffffff00&hide_border=true)
   
