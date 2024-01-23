@@ -35,7 +35,7 @@
 </tr>
 <tr>
 <td>Libraries & Frameworks I Use</td>
-<td><img src='https://angular.io/assets/images/logos/angular/angular.svg alt='Angular js' height='30'><img src='https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg' alt='react js' height='30'><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" title="Redux" height="30" /><img src='https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg  alt='node js' height='30'><img src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png" alt="next js" width="30" height="30" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="30" height="30" /> 
+<td><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt='Angular js' height='30'><img src='https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg' alt='react js' height='30'><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" title="Redux" height="30" /><img src='https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg  alt='node js' height='30'><img src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png" alt="next js" width="30" height="30" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="30" height="30" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="30" height="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30" height='30'/>
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jest/jest-plain.svg" width="30" height='30'/>
