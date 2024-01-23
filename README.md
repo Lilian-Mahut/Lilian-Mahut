@@ -1,6 +1,6 @@
 <div align="center">
 
-![Banner](/Gruvbox%20theme%20coffee.png?raw=true)
+![Banner](/icons/coffee.png?raw=true)
 
 # Hi 👋, I'm Lilian Mahut
 
