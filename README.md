@@ -67,7 +67,7 @@
     <td>
       <img src="/icons/tools/vsc.png" alt="Visual Studio Code"title="Visual Studio Code" height="30" />
       <img src="/icons/tools/git.png" alt="Git" title="Git" height="30" >
-      <img src="/icons/github.png" alt="Github" title="GitHub" height="30" />
+      <img src="/icons/tools/github.png" alt="Github" title="GitHub" height="30" />
       <img src="/icons/tools/gitlab.png" alt="Gitlab" title="Gitlab" height="30" />
       <img src="/icons/tools/azure.png" alt="Azure" title="Azure" height="30" />
     </td>
