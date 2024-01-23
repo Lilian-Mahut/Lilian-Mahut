@@ -8,15 +8,15 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=Lilian-Mahut&label=Profile%20views&color=0e75b6&style=flat)
 
-🌐 My personnal portolio website [Link of my Portfolio](https://lilianmahut.dev/)
+🌐 Link to my personnal [Portfolio](https://lilianmahut.dev/)
 
 📫 Contact me at [contact@lilianmahut.dev](mailto:contact@lilianmahut.dev)
 
-🌱 Take a look at my Github profile status to see what I am working / training on.
+🌱 Take a look to my Github profile status to see what I am working / training on.
 
 👨‍💻 All of my projects are available at [My Github repositories](https://github.com/Lilian-Mahut?tab=repositories)
 
-🎲 Fun fact, I'm a <img src="/icons/d&d.png" alt="Dungeons & Dragons" title="Dungeons & Dragons" height="18" style="vertical-align:bottom;" /> game master since I was 16.
+🎲 Personnal fact, I'm a <img src="/icons/d&d.png" alt="Dungeons & Dragons" title="Dungeons & Dragons" height="18" /> game master since I was 16.
 
 <br />
 <table>
@@ -31,7 +31,8 @@
       <img src="/icons/languages/css3.png" alt="Css3" title="Css3" height="30" />  
       <img src="/icons/languages/javascript.png" alt="Javascript" title="Javascript" height="30" />  
       <img src="/icons/languages/typescript.png" alt="Typescript" title="Typescript" height="30" /> 
-      <img src="/icons/languages/sql.png" alt="SQL" title="SQL" height="30" />
+      <img src="/icons/languages/sql.png" alt="SQL" title="SQL" height="30" /> 
+      <img src="/icons/languages/uml.png" alt="UML" title="UML" height="30" /> 
   </tr>
   <tr>
     <td>Libraries & Frameworks</td>
@@ -58,6 +59,7 @@
     <td>Databases</td>
     <td>
       <img src="/icons/databases/mysql.png" alt="MySQL" title="MySQL" height="30" /> 
+      <img src="/icons/databases/mariadb.ng" alt="MariaDB" title="MariaDB" height="30" /> 
       <img src="/icons/databases/mongodb.png" alt="MongoDB" title="MongoDB" height="30" /> 
       <img src="/icons/databases/postgresql.png" alt="PostgreSQL" title="PostgreSQL" height="30" />
     </td>
