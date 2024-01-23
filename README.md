@@ -49,7 +49,7 @@
 <td>Designing Tools I Use</td>
 <td>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" title="Figma" height="30" />
-<a href="https://www.adobe.com/fr/products/photoshop.html"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_Mobile_icon.svg/1049px-Adobe_Photoshop_Mobile_icon.svg.png" alt=" Photoshop" title="Photoshop" height="30" /></a>
+<a href="https://www.adobe.com/fr/products/photoshop.html"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_Mobile_icon.svg/1049px-Adobe_Photoshop_Mobile_icon.svg.png" alt=" Photoshop" title="Photoshop" height="30" target="_blank" /></a>
 </td>
 </tr>
 </table>
