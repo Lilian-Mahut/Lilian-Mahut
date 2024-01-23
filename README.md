@@ -77,7 +77,7 @@
     <td>
       <img src="/icons/tools/jenkins.png" alt="Jenkins"title="Jenkins" height="30" />
       <img src="/icons/tools/nginx.png" alt="Nginx" title="Nginx" height="30" >
-      <img src="/icons/tools/vercel.png" alt="Vercel" title="Vercel" height="30" />
+      <img src="/icons/tools/vercel.png" alt="Vercel" title="Vercel" height="26" />
     </td>
   </tr>
   <tr>
