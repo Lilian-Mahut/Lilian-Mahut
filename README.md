@@ -75,9 +75,9 @@
   <tr>
     <td>CI / CD</td>
     <td>
-      <img src="/icons/tools/jenkins.png" alt="Visual Studio Code"title="Visual Studio Code" height="30" />
-      <img src="/icons/tools/ngynx.png" alt="Git" title="Git" height="30" >
-      <img src="/icons/tools/vercel.png" alt="Github" title="GitHub" height="30" />
+      <img src="/icons/tools/jenkins.png" alt="Jenkins"title="Jenkins" height="30" />
+      <img src="/icons/tools/ngynx.png" alt="Ngynx" title="Ngynx" height="30" >
+      <img src="/icons/tools/vercel.png" alt="Vercel" title="Vercel" height="30" />
     </td>
   </tr>
   <tr>
