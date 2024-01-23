@@ -16,7 +16,7 @@
 
 👨‍💻 All of my projects are available at [My Github repositories](https://github.com/Joliwood?tab=repositories)
 
-:musical_score: Fun fact, I am master of the <img src="/icons/d&d.png" alt="Dungeons & Dragons" title="Dungeons & Dragons" height="18" align="middle" /> Dungeons & Dragons game since the age of 16.
+:musical_score: Fun fact, I am master of the <img src="/icons/d&d.png" alt="Dungeons & Dragons" title="Dungeons & Dragons" height="18" /> game since the age of 16.
 
 <br />
 <table>
