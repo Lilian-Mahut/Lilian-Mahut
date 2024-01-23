@@ -16,7 +16,7 @@
 
 👨‍💻 All of my projects are available at [My Github repositories](https://github.com/Lilian-Mahut?tab=repositories)
 
-:musical_score: Fun fact, I am master of the <img src="/icons/d&d.png" alt="Dungeons & Dragons" title="Dungeons & Dragons" height="18" /> game since I was 16.
+🎲 Fun fact, I am master of the <img src="/icons/d&d.png" alt="Dungeons & Dragons" title="Dungeons & Dragons" height="18" /> game since I was 16.
 
 <br />
 <table>
@@ -30,7 +30,7 @@
       <img src="/icons/languages/html5.png" alt="Html5" title="Html5" height="30" /> 
       <img src="/icons/languages/css3.png" alt="Css3" title="Css3" height="30" /> 
       <img src="/icons/languages/javascript.png" alt="Javascript" title="Javascript" height="30" /> 
-      <img src="/icons/languages/typescript.png" alt="Typescript" title="Typescript" height="30" />
+      <img src="/icons/languages/typescript.png" alt="Typescript" title="Typescript" height="30" /> 
       <img src="/icons/languages/sql.png" alt="SQL" title="SQL" height="30" />
   </tr>
   <tr>
