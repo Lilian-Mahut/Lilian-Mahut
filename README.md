@@ -6,7 +6,7 @@
 
 ## Fullstack JavaScript developer specializing in Angular
 
-![Profile views](https://komarev.com/ghpvc/?username=joliwood&label=Profile%20views&color=0e75b6&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=Lilian-Mahut&label=Profile%20views&color=0e75b6&style=flat)
 
 🌐 My personnal portolio website [Link of my Portfolio](https://lilianmahut.dev/)
 
@@ -14,9 +14,9 @@
 
 🌱 Take a look at my Github profile status to see what I am working / training on.
 
-👨‍💻 All of my projects are available at [My Github repositories](https://github.com/Joliwood?tab=repositories)
+👨‍💻 All of my projects are available at [My Github repositories](https://github.com/Lilian-Mahut?tab=repositories)
 
-:musical_score: Fun fact, I am master of the <img src="/icons/d&d.png" alt="Dungeons & Dragons" title="Dungeons & Dragons" height="18" /> game since the age of 16.
+:musical_score: Fun fact, I am master of the <img src="/icons/d&d.png" alt="Dungeons & Dragons" title="Dungeons & Dragons" height="18" /> game since I was 16.
 
 <br />
 <table>
