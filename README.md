@@ -4,7 +4,7 @@
     <img src="helloWorld.svg" style="width: 100%;" alt="hello">
   </div>
   
-  # Specialized in <img src="/icons/technologies/angular.png" alt="Angular" title="Angular" height="24" />ngular
+  # Specialized in Javascript
   
   ![Profile views](https://komarev.com/ghpvc/?username=Lilian-Mahut&label=Profile%20views&color=0e75b6&style=flat)
   
