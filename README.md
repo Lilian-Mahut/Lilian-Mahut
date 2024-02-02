@@ -81,6 +81,13 @@
       </td>
     </tr>
     <tr>
+      <td>Tests</td>
+      <td>
+        <img src="/icons/tools/jest.png" alt="Jest"title="Jest" height="30" /> 
+        <img src="/icons/tools/cypress.png" alt="Cypress"title="Cypress" height="30" />
+      </td>
+    </tr>
+    <tr>
       <td>CI / CD</td>
       <td>
         <img src="/icons/tools/jenkins.png" alt="Jenkins"title="Jenkins" height="30" /> 
