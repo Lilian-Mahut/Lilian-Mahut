@@ -34,6 +34,7 @@
           <img src="/icons/languages/html5.png" alt="Html5" title="Html5" height="30" />  
           <img src="/icons/languages/css3.png" alt="Css3" title="Css3" height="30" />  
           <img src="/icons/languages/javascript.png" alt="Javascript" title="Javascript" height="30" />  
+          <br/>
           <img src="/icons/languages/typescript.png" alt="Typescript" title="Typescript" height="30" /> 
           <img src="/icons/languages/sql.png" alt="SQL" title="SQL" height="30" />  
           <img src="/icons/languages/uml.png" alt="UML" title="UML" height="30" /> 
