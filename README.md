@@ -30,38 +30,39 @@
     </tr>
     <tr>
       <td>Languages</td>
-      <td>
-        <img src="/icons/languages/html5.png" alt="Html5" title="Html5" height="30" />  
-        <img src="/icons/languages/css3.png" alt="Css3" title="Css3" height="30" />  
-        <img src="/icons/languages/javascript.png" alt="Javascript" title="Javascript" height="30" />  
-        <img src="/icons/languages/typescript.png" alt="Typescript" title="Typescript" height="30" /> 
-        <img src="/icons/languages/sql.png" alt="SQL" title="SQL" height="30" />  
-        <img src="/icons/languages/uml.png" alt="UML" title="UML" height="30" /> 
+      <td align="center">
+          <img src="/icons/languages/html5.png" alt="Html5" title="Html5" height="30" />  
+          <img src="/icons/languages/css3.png" alt="Css3" title="Css3" height="30" />  
+          <img src="/icons/languages/javascript.png" alt="Javascript" title="Javascript" height="30" />  
+          <img src="/icons/languages/typescript.png" alt="Typescript" title="Typescript" height="30" /> 
+          <img src="/icons/languages/sql.png" alt="SQL" title="SQL" height="30" />  
+          <img src="/icons/languages/uml.png" alt="UML" title="UML" height="30" /> 
+      </td>
     </tr>
     <tr>
       <td>Libraries & Frameworks</td>
-      <td>
-        <img src="/icons/technologies/angular.png" alt="Angular" title="Angular" height="30" /> 
-        <img src="/icons/technologies/materialize.png" alt="Materialize" title="Materialize" height="30" /> 
-        <img src="/icons/technologies/materialui.png" alt="Material UI" title="Material UI" height="30" />
-        <br/>
-        <img src="/icons/technologies/sass.png" alt="Sass" title="Sass" height="30" /> 
-        <img src="/icons/technologies/bootstrap.png" alt="Bootstrap" title="Bootstrap" height="30" /> 
-        <img src="/icons/technologies/tailwind.png" alt="Tailwind" title="Tailwind" height="30" />
-        <br/>
-        <img src="/icons/technologies/node.png" alt="Node" title="Node" height="30" /> 
-        <img src="/icons/technologies/express.png" alt="Express.js" title="Express.js" height="30" /> 
-        <img src="/icons/technologies/socket.io.png" alt="Socket.io" title="Socket.io" height="30" /> 
-        <img src="/icons/technologies/jQuery.png" alt="jQuery" title="jQuery" height="30" />
-        <br/>
-        <img src="/icons/technologies/react.png" alt="React" title="React" height="30" /> 
-        <img src="/icons/technologies/redux.png" alt="Redux" title="Redux" height="30" /> 
-        <img src="/icons/technologies/next.png" alt="Next.js" title="Next.js" height="30" />
+      <td align="center">
+          <img src="/icons/technologies/angular.png" alt="Angular" title="Angular" height="30" /> 
+          <img src="/icons/technologies/materialize.png" alt="Materialize" title="Materialize" height="30" /> 
+          <img src="/icons/technologies/materialui.png" alt="Material UI" title="Material UI" height="30" />
+          <br/>
+          <img src="/icons/technologies/sass.png" alt="Sass" title="Sass" height="30" /> 
+          <img src="/icons/technologies/bootstrap.png" alt="Bootstrap" title="Bootstrap" height="30" /> 
+          <img src="/icons/technologies/tailwind.png" alt="Tailwind" title="Tailwind" height="30" />
+          <br/>
+          <img src="/icons/technologies/node.png" alt="Node" title="Node" height="30" /> 
+          <img src="/icons/technologies/express.png" alt="Express.js" title="Express.js" height="30" /> 
+          <img src="/icons/technologies/socket.io.png" alt="Socket.io" title="Socket.io" height="30" /> 
+          <img src="/icons/technologies/jQuery.png" alt="jQuery" title="jQuery" height="30" />
+          <br/>
+          <img src="/icons/technologies/react.png" alt="React" title="React" height="30" /> 
+          <img src="/icons/technologies/redux.png" alt="Redux" title="Redux" height="30" /> 
+          <img src="/icons/technologies/next.png" alt="Next.js" title="Next.js" height="30" />
       </td>
     </tr>
      <tr>
       <td>Databases</td>
-      <td>
+      <td align="center">
         <img src="/icons/databases/mysql.png" alt="MySQL" title="MySQL" height="30" /> 
         <img src="/icons/databases/mariadb.png" alt="MariaDB" title="MariaDB" height="30" /> 
         <img src="/icons/databases/mongodb.png" alt="MongoDB" title="MongoDB" height="30" /> 
@@ -70,26 +71,26 @@
      </tr>
     <tr>
       <td>Tools</td>
-      <td>
+      <td align="center">
         <img src="/icons/tools/vsc.png" alt="Visual Studio Code"title="Visual Studio Code" height="30" /> 
         <img src="/icons/tools/git.png" alt="Git" title="Git" height="30" > 
+        <img src="/icons/tools/docker.png" alt="Docker" title="Docker" height="30" />
+        <br/>
         <img src="/icons/tools/github.png" alt="Github" title="GitHub" height="30" /> 
         <img src="/icons/tools/gitlab.png" alt="Gitlab" title="Gitlab" height="30" />
-        <br/>
         <img src="/icons/tools/azure.png" alt="Azure" title="Azure" height="30" /> 
-        <img src="/icons/tools/docker.png" alt="Docker" title="Docker" height="30" />
       </td>
     </tr>
     <tr>
       <td>Tests</td>
-      <td>
+      <td align="center">
         <img src="/icons/technologies/jest.png" alt="Jest" title="Jest" height="30" /> 
         <img src="/icons/technologies/cypress.png" alt="Cypress" title="Cypress" height="30" />
       </td>
     </tr>
     <tr>
       <td>CI / CD</td>
-      <td>
+      <td align="center">
         <img src="/icons/tools/jenkins.png" alt="Jenkins"title="Jenkins" height="30" /> 
         <img src="/icons/tools/nginx.png" alt="Nginx" title="Nginx" height="30" > 
         <img src="/icons/tools/vercel.png" alt="Vercel" title="Vercel" height="26" />
@@ -97,7 +98,7 @@
     </tr>
     <tr>
       <td>Design</td>
-      <td>
+      <td align="center">
         <img src="/icons/tools/figma.png" alt="figma" title="Figma" height="30" /> 
         <img src="/icons/tools/photoshop.png" alt="Photoshop" title="Photoshop" height="30" />
       </td>
