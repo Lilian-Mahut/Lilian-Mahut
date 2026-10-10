@@ -102,7 +102,8 @@
       <td>Design</td>
       <td align="center">
         <img src="/icons/tools/figma.png" alt="figma" title="Figma" height="30" /> 
-        <img src="/icons/tools/photoshop.png" alt="Photoshop" title="Photoshop" height="30" />
+        <img src="/icons/tools/adobe_photoshop.png" alt="Photoshop" title="Photoshop" height="30" />
+        <img src="/icons/tools/adobe_illustrator.svg" alt="Illustrator" title="Illustrator" height="30" />
       </td>
     </tr>
   </table>
