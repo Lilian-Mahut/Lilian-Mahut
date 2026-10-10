@@ -58,7 +58,7 @@
           <br/>
           <img src="/icons/technologies/react.png" alt="React" title="React" height="30" /> 
           <img src="/icons/technologies/redux.png" alt="Redux" title="Redux" height="30" /> 
-          <img src="/icons/technologies/expo.png" alt="Expo" title="Expo" height="30" />
+          <img src="/icons/tools/expo.png" alt="Expo" title="Expo" height="30" />
           <img src="/icons/technologies/next.png" alt="Next.js" title="Next.js" height="30" />
       </td>
     </tr>
